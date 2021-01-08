@@ -10,11 +10,9 @@ Follow the official Tomato instructions found [here](http://tomato.cool/how-to-f
 
 Download the skin by either getting the .rmskin through releases or manually downloading and extracting the files to your Rainmeter skins folder 
 
-Open BloodGlucose.ini in the rainmeter skins folder and paste the follower link under the variables section. Should look similar to 
+Open the settings window skin and paste the follower URL in the top bar. You can also toggle between black and white text in this menu! 
 
-```
-[Variables]
-url=https://global.fanqies.com/remote/glycemic/....
-```
+![alt text](https://user-images.githubusercontent.com/8162613/104022030-025aae00-51c0-11eb-8e4a-d3f455dcc1fe.png)
+
 # To do 
 Add variables to allow for easier text color changing and installation 
