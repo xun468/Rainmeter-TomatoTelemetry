@@ -8,11 +8,12 @@ _Number currently displayed in mmol/L. The unit displayed depends on the app set
 # Installation 
 Follow the official Tomato instructions found [here](http://tomato.cool/how-to-follow-a-persons-blood-sugar/tips/) to get a follower link. This link should start with https://global.fanqies.com/remote/glycemic/...
 
-Download the skin by either getting the .rmskin through releases or manually downloading and extracting the files to your Rainmeter skins folder 
+Download the skin by either getting the .rmskin through releases or manually downloading and extracting the files into your Rainmeter skins folder 
 
-Open the settings window skin and paste the follower URL in the top bar. You can also toggle between black and white text in this menu! 
+Open the settings window skin and paste the follower URL in the top bar. You can also toggle between black and white text in this menu! Changes will take place after refreshing the meter skin. 
 
 ![alt text](https://user-images.githubusercontent.com/8162613/104022030-025aae00-51c0-11eb-8e4a-d3f455dcc1fe.png)
 
+The settings window can be unloaded afterwards. 
 # To do 
-Add variables to allow for easier text color changing and installation 
+Don't know for now! 
