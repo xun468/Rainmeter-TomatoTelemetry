@@ -8,7 +8,7 @@ _Number currently displayed in mmol/L. The unit displayed depends on the app set
 # Installation 
 Follow the official Tomato instructions found [here](http://tomato.cool/how-to-follow-a-persons-blood-sugar/tips/) to get a follower link. This link should start with https://global.fanqies.com/remote/glycemic/...
 
-Download the .rmskin either through releases or manually download and extract the files to your Rainmeter skins folder 
+Download the skin by either getting the .rmskin through releases or manually downloading and extracting the files to your Rainmeter skins folder 
 
 Open BloodGlucose.ini in the rainmeter skins folder and paste the follower link under the variables section. Should look similar to 
 
