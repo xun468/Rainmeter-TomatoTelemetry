@@ -1,7 +1,7 @@
 # A rainmeter skin for the Tomato blood glucose monitor app
 A simple rainmeter skin to display blood glucose levels on your dekstop with the Tomato blood glucose monitoring app. 
 
-![alt text](https://user-images.githubusercontent.com/8162613/103983500-a2dfac80-5185-11eb-96c4-8cdb0e28d17d.png)
+![alt text](https://user-images.githubusercontent.com/8162613/104091581-870c0180-527e-11eb-8db0-bd48f5a9b46b.png)
 
 _Number currently displayed in mmol/L. The unit displayed depends on the app settings_ 
 
